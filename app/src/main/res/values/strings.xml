@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GradeStuff</string>
+    <string name="grade">Grade</string>
+    <string name="show_grade">Show Grade</string>
+    <string name="your_grade_is">your grade is…</string>
+    <string name="grade_hint">Enter your grade</string>
+    <string name="FGrade">You got an F</string>
+    <string name="CMinus">You got a C-</string>
+    <string name="CGrade">You got a C</string>
+</resources>
